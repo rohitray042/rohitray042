@@ -4,12 +4,18 @@
 <!--
 **rohitray042/rohitray042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on Data Engineer Field.
-- 🌱 I’m currently learning AWS Data Engineer
-<!--- 👯 I’m looking to collaborate on open source projects --->
-- 🤔 I’m looking for Job Change in Data Engineering.
-- 💬 Ask me about Apache Spark and Python                                                                                                                                                     
-- - 📫 How to reach me: just follow me and comment on my Repos :-)<br>
-- 😄 Pronouns: HE / Rohit Ray
-- ⚡ Fun fact: ...
+I'm a **Certified Google Cloud Professional Data Engineer** passionate about **big data, cloud computing, and scalable architectures**. I love building data-driven solutions and exploring new technologies to optimize performance and efficiency.  
+
+💡 **What I do:**  
+- Architect and optimize **data pipelines** on **Google Cloud** ☁️  
+- Work with **BigQuery, Apache Spark, Snowflake, and Cassandra**  
+- Automate and scale data workflows for real-time analytics 📊  
+- Continuously learn
+
+🛠 **Tech Stack:**  
+`Python` | `SQL` | `BigQuery` | `Snowflake` | `Spark` | `Cassandra` | `GCP` | `Docker`  
+  
+
+⚡ **Fun Fact:** I enjoy solving **data engineering challenges** and experimenting with **AI-powered automation**!  
+
 
